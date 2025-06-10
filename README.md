@@ -40,25 +40,24 @@
 
 ---
 
-## 📈 Learning Roadmap (📚 Ongoing Journey)
+## ⚙️ Core Competencies
 
-- ✅ Python for Data Analysis  
-- ✅ SQL for Data Querying  
-- ✅ Pandas, NumPy, Matplotlib  
-- 🔄 Machine Learning with Scikit-learn  
-- 🔄 Deep Learning with TensorFlow / PyTorch  
-- ⏳ Data Engineering Tools: Airflow, Spark, Docker, BigQuery  
-- ⏳ Deployment: Flask / Streamlit, GitHub Actions, CI/CD  
+I work across the data lifecycle — from data analysis and modeling to pipeline automation and deployment. My current skillset includes:
+
+- **Programming & Querying**: Python, SQL  
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch  
+- **Data Engineering**: MySQL, Apache Airflow, Apache Spark, Docker  
+- **Model Deployment**: Streamlit, Flask, GitHub Actions (CI/CD)  
+- **Version Control & Collaboration**: Git, GitHub  
+
 
 ---
 
-## 📂 Featured Projects (Coming Soon)
-> Real-world projects will be pinned here to showcase my growth & hands-on implementation:
-- 📊 **Exploratory Data Analysis on Real Datasets**
-- 🤖 **Predictive Modeling for Business Scenarios**
-- 🚀 **ML Models Deployment using Streamlit**
-- ⚙️ **Data Pipelines using Airflow & Spark**
+## 📂 Notable Projects
 
+- 📊 **Sales Data Dashboard**  
+  Designed interactive visualizations using Pandas & Matplotlib to explore business KPIs.
 ---
 
 ## 📊 GitHub Stats:
