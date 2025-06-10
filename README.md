@@ -56,8 +56,20 @@ I work across the data lifecycle — from data analysis and modeling to pipeline
 
 ## 📂 Notable Projects
 
-- 📊 **Sales Data Dashboard**  
-  Designed interactive visualizations using Pandas & Matplotlib to explore business KPIs.
+- 🛒 **Amazon Sales Report Analyzer**  
+  Applied time series analysis and forecasting techniques to Amazon sales data.  
+  Built interactive Power BI dashboards for real-time stakeholder insights.  
+  Utilized SQL for data management and querying, ensuring accuracy and integrity in analytics.
+
+- 💬 **Python-based Virtual Assistant**  
+  Developed a desktop assistant in Python that launches apps, fetches news, shows weather, and sets alarms.  
+  Automated repetitive tasks, achieving a 40% reduction in manual work and 80% improvement in workflow efficiency.
+ 
+ 🎧 **Spotify Song Analysis Dashboard**  
+  Built an interactive Power BI dashboard to explore and analyze Spotify song data.  
+  Implemented complex filters, slicers, joins, and custom calculations to drive user-centric insights.  
+  Utilized a variety of chart types (bar, line, donut, pie, clustered) for dynamic data storytelling.
+
 ---
 
 ## 📊 GitHub Stats:
