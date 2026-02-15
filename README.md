@@ -51,6 +51,35 @@ I focus on building **real-world, production-ready solutions**, not just noteboo
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
+## 📂 Featured Projects
+
+### 📈 AI-Powered Business Performance Analytics  
+🔗 [AI-Powered Business Performance Analytics](https://github.com/Shivacode-37/Ai-business-analyst-copilot)
+
+- Built an advanced **SQL-based KPI engine** for business performance tracking.  
+- Automated insights generation using Python to reduce manual reporting effort.  
+- Developed interactive **Power BI dashboards** for executive-level reporting.  
+- Integrated AI-assisted analysis to accelerate insight delivery workflows.  
+
+---
+
+### 📊 Business Performance & Profit Leakage Analytics  
+🔗 [Business Performance & Profit Leakage Analytics](https://github.com/Shivacode-37/Business-Performance-Analytics)
+
+- Analyzed **50K+ transactional records** to uncover **24% loss-making orders** impacting overall profitability.  
+- Built KPI-driven dashboards to monitor revenue, margins, and discount impact across categories.  
+- Identified a **35% discount threshold** significantly contributing to profit leakage.  
+- Performed category-level segmentation to isolate high-risk products and revenue drivers.  
+
+---
+
+### 🛒 Amazon Sales Analytics Dashboard  
+🔗 [Amazon Sales Analytics Dashboard](https://github.com/Shivacode-37/YOUR-AMAZON-REPO-NAME)
+
+- Performed time-series analysis and revenue trend forecasting.  
+- Built dynamic **Power BI dashboards** with drill-down insights.  
+- Designed SQL-based validation and reporting workflows to ensure data accuracy.  
+
 
 ## 📂 Featured Projects
 
@@ -62,14 +91,20 @@ I focus on building **real-world, production-ready solutions**, not just noteboo
 - Integrated AI-assisted analysis to accelerate reporting workflows  
 
 ---
-### 📊 Business Performance & Profit Leakage Analytics
-🔗[Business Performance & Profit leakage Analytics](https://github.com/Shivacode-37/Business-Performance-Analytics)
-- Analyzed 50K+ transactions, identifying 24% loss-making orders.
-- Built KPI dashboards and identified 35% discount threshold impacting profitability.
-- Performed category-level segmentation to highlight risk drivers.
+📊 Business Performance & Profit Leakage Analytics
+
+🔗 https://github.com/Shivacode-37/Business-Performance-Analytics
+
+Analyzed 50K+ transactional records to uncover 24% loss-making orders impacting overall profitability.
+
+Built KPI-driven dashboards to monitor revenue, margins, and discount impact across categories.
+
+Identified a 35% discount threshold significantly contributing to profit leakage.
+
+Performed category-level segmentation to isolate high-risk products and revenue drivers.
 
 ### 🛒 Amazon Sales Analytics Dashboard  
-🔗 [Amazon sales Analytics Dashboard](https://github.com/Shivacode-37/Business-Performance-Analytics) 
+🔗 [[Amazon sales Analytics Dashboad](https://github.com/Shivacode-37/Amazon-Sales-Report) 
 - Performed time-series analysis and revenue trend forecasting  
 - Built dynamic Power BI dashboards with drill-down insights  
 - Designed SQL-based validation and reporting workflows  
