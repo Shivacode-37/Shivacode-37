@@ -55,21 +55,21 @@ I focus on building **real-world, production-ready solutions**, not just noteboo
 ## 📂 Featured Projects
 
 ### 📈 AI-Powered Business Performance Analytics  
-🔗 ([Ai-Powered Business Performance Analytics](https://github.com/Shivacode-37/Ai-business-analyst-copilot))  
+🔗 [Ai-Powered Business Performance Analytics](https://github.com/Shivacode-37/Ai-business-analyst-copilot) 
 - Built advanced SQL-based KPI engine for business performance tracking  
 - Automated insights generation using Python  
 - Developed interactive Power BI dashboards for executive-level reporting  
 - Integrated AI-assisted analysis to accelerate reporting workflows  
 
 ---
-###📈 Business Performance & Profit Leakage Analytics GitHub
-🔗([Business Performance & Profit leakage Analytics](https://github.com/Shivacode-37/Business-Performance-Analytics))
+###📈 Business Performance & Profit Leakage Analytics
+🔗[Business Performance & Profit leakage Analytics](https://github.com/Shivacode-37/Business-Performance-Analytics)
 - Analyzed 50K+ transactions, identifying 24% loss-making orders.
 - Built KPI dashboards and identified 35% discount threshold impacting profitability.
 - Performed category-level segmentation to highlight risk drivers.
 
 ### 🛒 Amazon Sales Analytics Dashboard  
-🔗 ([Amazon sales Analytics Dashboard](https://github.com/Shivacode-37/Business-Performance-Analytics))  
+🔗 [Amazon sales Analytics Dashboard](https://github.com/Shivacode-37/Business-Performance-Analytics) 
 - Performed time-series analysis and revenue trend forecasting  
 - Built dynamic Power BI dashboards with drill-down insights  
 - Designed SQL-based validation and reporting workflows  
