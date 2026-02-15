@@ -63,7 +63,7 @@ I focus on building **real-world, production-ready solutions**, not just noteboo
 
 ---
 ###📈 Business Performance & Profit Leakage Analytics GitHub
-🔗([Business Performance & Profit leakage Analytics]((https://github.com/Shivacode-37/Business-Performance-Analytics)))
+🔗([Business Performance & Profit leakage Analytics](https://github.com/Shivacode-37/Business-Performance-Analytics))
 - Analyzed 50K+ transactions, identifying 24% loss-making orders.
 - Built KPI dashboards and identified 35% discount threshold impacting profitability.
 - Performed category-level segmentation to highlight risk drivers.
