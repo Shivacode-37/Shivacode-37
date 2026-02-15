@@ -1,82 +1,99 @@
-# 💫 About Me:
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+# 💫 Mohit Kumar
 
-🚀 Data Analyst | Aspiring Data Scientist & ML Engineer | Future Data Engineer  
-🔍 Passionate about transforming raw data into intelligent insights and predictive systems.  
-🎯 Currently focused on mastering the full stack of data — from collection and wrangling to modeling, deployment, and automation.  
-🧠 Lifelong learner in AI, Machine Learning, and Big Data tools.
+<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
----
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/37-mohitkumar) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mohit10_) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitmehra._)
+🚀 Data Analyst @ Cognizant  
+📊 SQL • Python • Power BI • Automation  
+⚡ Building practical data solutions that improve business efficiency  
 
 ---
 
-## 🧰 Tech Stack & Tools:
-### 👨‍💻 Languages & Libraries
+## 👨‍💻 About Me
+
+I am a Data Analyst at Cognizant working at the intersection of **data analytics, backend automation, and AI-assisted workflows**.
+
+My expertise lies in:
+- Transforming structured data into actionable insights  
+- Writing optimized SQL for business reporting  
+- Automating workflows using Python & Flask  
+- Building interactive dashboards in Power BI  
+
+I focus on building **real-world, production-ready solutions**, not just notebooks.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/37-mohitkumar)
+
+---
+
+## 🧰 Tech Stack
+
+### 🧑‍💻 Core Technologies
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+---
 
-### 📊 Data Science & Machine Learning
+### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230079c1.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 AI & Deep Learning (Learning Phase)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+---
 
-### 🛠️ Data Engineering Tools (In Progress)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+### ⚙️ Workflow & Deployment
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## ⚙️ Core Competencies
+## 📂 Featured Projects
 
-I work across the data lifecycle — from data analysis and modeling to pipeline automation and deployment. My current skillset includes:
-
-- **Programming & Querying**: Python, SQL  
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch  
-- **Data Engineering**: MySQL, Apache Airflow, Apache Spark, Docker  
-- **Model Deployment**: Streamlit, Flask, GitHub Actions (CI/CD)  
-- **Version Control & Collaboration**: Git, GitHub  
-
+### 📈 AI-Powered Business Performance Analytics  
+🔗 ([Add your repository link here](https://github.com/Shivacode-37/Ai-business-analyst-copilot))  
+- Built advanced SQL-based KPI engine for business performance tracking  
+- Automated insights generation using Python  
+- Developed interactive Power BI dashboards for executive-level reporting  
+- Integrated AI-assisted analysis to accelerate reporting workflows  
 
 ---
+###📈 Business Performance & Profit Leakage Analytics GitHub
+🔗([Add your repository link here]((https://github.com/Shivacode-37/Business-Performance-Analytics)))
+-- Analyzed 50K+ transactions, identifying 24% loss-making orders.
+-- Built KPI dashboards and identified 35% discount threshold impacting profitability.
+-- Performed category-level segmentation to highlight risk drivers.
 
-## 📂 Notable Projects
-
-- 🛒 **Amazon Sales Report Analyzer**  
-  Applied time series analysis and forecasting techniques to Amazon sales data.  
-  Built interactive Power BI dashboards for real-time stakeholder insights.  
-  Utilized SQL for data management and querying, ensuring accuracy and integrity in analytics.
-
-- 💬 **Python-based Virtual Assistant**  
-  Developed a desktop assistant in Python that launches apps, fetches news, shows weather, and sets alarms.  
-  Automated repetitive tasks, achieving a 40% reduction in manual work and 80% improvement in workflow efficiency.
+### 🛒 Amazon Sales Analytics Dashboard  
+🔗 ([Add your repository link here](https://github.com/Shivacode-37/Business-Performance-Analytics))  
+- Performed time-series analysis and revenue trend forecasting  
+- Built dynamic Power BI dashboards with drill-down insights  
+- Designed SQL-based validation and reporting workflows  
  
-- 🎧 **Spotify Song Analysis Dashboard**  
-  Built an interactive Power BI dashboard to explore and analyze Spotify song data.  
-  Implemented complex filters, slicers, joins, and custom calculations to drive user-centric insights.  
-  Utilized a variety of chart types (bar, line, donut, pie, clustered) for dynamic data storytelling.
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivacode-37&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivacode-37&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shivacode-37&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivacode-37&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivacode-37&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shivacode-37&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Focus Areas
 
-<!-- Created and customized by ChatGPT & GPRM (https://gprm.itsvg.in) -->
+- Advanced SQL & Analytics Engineering  
+- AI-assisted Data Analysis  
+- Automation-driven Analytics Workflows  
+- Scalable Business Intelligence Solutions  
 
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=shivacode-37&icon=0&color=0)
