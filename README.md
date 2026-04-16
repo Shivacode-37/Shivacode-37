@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 🚀 Data Analyst @ Cognizant  
-📊 SQL • Python • Power BI • Automation  
+📊 SQL • Python • Tableau • Automation • Power Bi  
 ⚡ Building practical data solutions that improve business efficiency  
 
 ---
