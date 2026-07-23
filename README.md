@@ -2,108 +2,141 @@
 
 <img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-🚀 AI Engineer (Transitioning) @ Cognizant
-🤖 Python • Machine Learning • LangChain • FastAPI • AWS
-⚡ Building AI-powered systems, not just dashboards
+🚀 AI Engineer @ Cognizant  
+🤖 Python • FastAPI • LangChain • Streamlit • Machine Learning • AWS  
+⚡ Building production-ready AI applications, intelligent workflows, and enterprise business solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am currently working at Cognizant and transitioning into an **AI Engineer role**, focusing on building **end-to-end AI systems and intelligent applications**.
+I'm an AI Engineer passionate about building **production-ready AI applications** that combine backend engineering, machine learning, and modern AI frameworks.
 
-My work focuses on:
+I enjoy designing complete AI systems—from data processing and REST APIs to interactive dashboards and intelligent automation.
 
-* 🤖 Developing **LLM-powered applications (RAG, AI Agents)**
-* 🧠 Building and applying **Machine Learning models**
-* ⚙️ Designing **backend systems for AI applications**
-* ☁️ Deploying scalable solutions using **AWS & APIs**
+### My expertise includes:
 
-I focus on **production-ready systems** — from data → model → API → deployment.
+- 🤖 LLM-powered applications and AI workflows
+- 🧠 Machine Learning and business analytics
+- ⚙️ Backend development with FastAPI
+- 📊 Interactive dashboards with Streamlit & Plotly
+- 🔗 REST API development and integration
+- ☁️ Cloud-ready AI applications using AWS
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/37-mohitkumar)
+I believe in building software that is **modular, scalable, and production-ready.**
 
 ---
 
-## 🧠 Tech Stack
+# 🌐 Connect With Me
 
-### 🤖 AI / LLM Systems
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/37-mohitkumar)
+
+---
+
+# 🧠 Tech Stack
+
+## 👨‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🤖 AI & LLM
 
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-%2300A67E.svg?style=for-the-badge)
 
 ---
 
-### 🧑‍💻 Machine Learning & Data
+## 📊 Data Science
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
----
-
-### ⚙️ Backend & Deployment
-
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ Backend Development
 
-### 🤖 AI Business Analyst Copilot (LLM System)
-
-🔗 [AI Business Analyst Copilot](https://github.com/Shivacode-37/Ai-business-analyst-copilot)
-
-* Built an **LLM-powered assistant** to convert business queries into actionable insights
-* Designed architecture: **User Query → LLM → SQL Generation → Data Retrieval → Insight Output**
-* Automated insight generation workflows using Python
-* Moving toward **LangChain-based agent system with memory & tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ---
 
-### 📊 Profit Intelligence System
+## 🎨 Frontend & Visualization
 
-🔗 [Business Performance & Profit Leakage Analytics](https://github.com/Shivacode-37/Business-Performance-Analytics)
-
-* Developed a **data-driven system** to detect profit leakage patterns
-* Analyzed transactional data to identify key profitability risks
-* Built structured pipelines for scalable business insights
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## ☁️ Cloud & Tools
 
-![](https://github-readme-stats.vercel.app/api?username=shivacode-37\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivacode-37\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivacode-37\&theme=dark\&hide_border=false\&layout=compact)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Current Focus
+# 📂 Featured Projects
 
-* Building **RAG-based AI applications (LangChain)**
-* Developing **AI agents for automation workflows**
-* Learning **MLOps & model deployment**
-* Strengthening **backend systems for AI applications**
+## 📊 Enterprise AI Business Copilot
+
+🔗 https://github.com/Shivacode-37/Enterprise-AI-Business-Copilot
+
+A production-style AI-powered Business Intelligence platform built with FastAPI and Streamlit.
+
+### Highlights
+
+- Built REST APIs using FastAPI
+- Modular backend architecture
+- Interactive Streamlit dashboard
+- KPI analytics engine
+- AI-generated executive business reports
+- Plotly business visualizations
+- CSV upload and automated business analysis
+- Downloadable executive reports
+
+**Tech Stack**
+
+Python • FastAPI • Streamlit • Plotly • Pandas
 
 ---
 
-## ⚡ Philosophy
+## 🤖 Enterprise AI Workflow Automation Agent
 
-> Build systems that **think, automate, and scale** — not just analyze data.
+> 🚧 Currently Building
+
+An enterprise AI workflow automation platform focused on intelligent task orchestration, AI-powered workflows, and backend automation.
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=shivacode-37\&icon=0\&color=0)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shivacode-37&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivacode-37&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivacode-37&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🚀 Current Focus
+
+- Building enterprise AI applications
+- LangChain & AI Agents
+- Retrieval-Augmented Generation (RAG)
+- FastAPI backend engineering
+- MLOps fundamentals
+- Cloud deployment on AWS
+
+---
+
+# ⚡ Philosophy
+
+> **Design AI systems that solve real business problems—combining intelligent automation, scalable backend architecture, and clean engineering practices.**
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=shivacode-37&icon=0&color=0)
