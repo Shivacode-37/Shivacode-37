@@ -81,7 +81,7 @@ I believe in building software that is **modular, scalable, and production-ready
 
 # 📂 Featured Projects
 
-🚀 Enterprise AI Workflow Automation Platform
+##🚀 Enterprise AI Workflow Automation Platform
 
 An AI-powered enterprise application that automates IT asset requests, AI-based request analysis, approval management, and inventory workflows through a REST API and interactive dashboard.
 
@@ -130,13 +130,6 @@ Python • FastAPI • Streamlit • Plotly • Pandas
 
 ---
 
-## 🤖 Enterprise AI Workflow Automation Agent
-
-> 🚧 Currently Building
-
-An enterprise AI workflow automation platform focused on intelligent task orchestration, AI-powered workflows, and backend automation.
-
----
 
 # 📊 GitHub Stats
 
