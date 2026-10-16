@@ -60,7 +60,7 @@ I believe in building software that is **modular, scalable, and production-ready
 ## ⚙️ Backend Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
 
 ---
 
@@ -80,6 +80,32 @@ I believe in building software that is **modular, scalable, and production-ready
 ---
 
 # 📂 Featured Projects
+
+*## 🚀 Enterprise AI Workflow Automation Platform
+
+An AI-powered enterprise application that automates IT asset requests, AI-based request analysis, approval management, and inventory workflows through a REST API and interactive dashboard.
+
+🔗 **Live Demo:** [Open Dashboard](https://enterprise-ai-workflow-automation-platform-j5xpjnlz9wvm2vkpaf6.streamlit.app/) · [API Documentation](https://enterprise-ai-workflow-automation-h403.onrender.com/docs) · [Backend API](https://enterprise-ai-workflow-automation-h403.onrender.com)
+
+### ✨ Key Features
+- 🤖 **AI-Powered Requests:** Analyze natural-language IT asset requests and generate structured request details.
+- 📦 **Asset Inventory Management:** Track IT assets, availability, and allocation.
+- ✅ **Approval Workflow:** Create and track requests through an approval process.
+- 🔄 **Workflow Automation:** Support workflow execution after approval.
+- 🌐 **REST API:** Expose backend functionality through FastAPI endpoints.
+- 📊 **Interactive Dashboard:** Monitor inventory, requests, approvals, and workflow activity.
+- 🗄️ **Persistent Database:** Store application data in PostgreSQL hosted on Neon.
+
+### 🛠️ Tech Stack
+`Python` · `FastAPI` · `Streamlit` · `PostgreSQL` · `SQLAlchemy` · `LangChain` · `LangGraph` · `Chroma` · `Docker`
+
+### 🎯 Engineering Highlights
+- Built a cloud-deployed backend and interactive frontend.
+- Integrated AI-powered request analysis with an approval-based workflow.
+- Implemented database-backed inventory and request management.
+- Added readable, theme-aware JSON detail panels to improve dashboard usability.
+
+**Repository:** [View Source Code](YOUR_GITHUB_REPOSITORY_URL)*
 
 ## 📊 Enterprise AI Business Copilot
 
