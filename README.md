@@ -81,7 +81,7 @@ I believe in building software that is **modular, scalable, and production-ready
 
 # 📂 Featured Projects
 
-*## 🚀 Enterprise AI Workflow Automation Platform
+🚀 Enterprise AI Workflow Automation Platform
 
 An AI-powered enterprise application that automates IT asset requests, AI-based request analysis, approval management, and inventory workflows through a REST API and interactive dashboard.
 
@@ -105,7 +105,7 @@ An AI-powered enterprise application that automates IT asset requests, AI-based 
 - Implemented database-backed inventory and request management.
 - Added readable, theme-aware JSON detail panels to improve dashboard usability.
 
-**Repository:** [View Source Code](YOUR_GITHUB_REPOSITORY_URL)*
+**Repository:** [View Source Code](https://github.com/Shivacode-37/enterprise-ai-workflow-automation-platform.git)
 
 ## 📊 Enterprise AI Business Copilot
 
